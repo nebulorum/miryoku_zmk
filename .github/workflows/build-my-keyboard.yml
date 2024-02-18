@@ -13,5 +13,5 @@ jobs:
       nav: '["invertedT"]'
       layers: '["flip"]'
       kconfig: '["CONFIG_ZMK_SLEEP=y"]'
-      custom_config: '["#define MIRYOKU_KLUDGE_SUSPEND"]'
-      branches: '["zmkfirmware/zmk/main manna-harbour/zmk/suspend-test"]'
+      #custom_config: '["#define MIRYOKU_KLUDGE_SUSPEND"]'
+      #branches: '["zmkfirmware/zmk/main manna-harbour/zmk/suspend-test"]'
